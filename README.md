@@ -2,6 +2,8 @@
 
 A B.Sc. Graduation Project — University of Baghdad, College of Science, Computer Science Department
 
+![University Logo](https://g.top4top.io/p_3485oi0731.png)
+
 ---
 
 ## Abstract
